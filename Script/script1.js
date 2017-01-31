@@ -32,7 +32,7 @@ $(document).ready(function(){
         if(event.pageX< docWidth/2) {
             loc --;
             var next = Math.floor(myArray[1]) + -1;
-            if (next<=1) {
+            if (next<1) {
                 next=Math.floor(totalPics);
                 console.log('loop');
                 loc=next;

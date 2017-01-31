@@ -18,6 +18,8 @@ h1 {
 h2 {
     font-weight: 400;
     font-size: 18px;
+    line-height: 27px;
+    
     margin-top: 30px;
     margin-bottom: 30px;
     float: left;
